@@ -1,0 +1,13 @@
+Step 1: Server to get IP Address
+Step 2: Code to Record the IP Address of each Ping in a .txt
+Step 3: Host the Server on Heroku
+Step 4: Access the Server with Different Devices
+Step 5: Access the Server with Different VPN-enables Devices
+Step 6: Get the .txt File and Annotate it as Data for ML Model
+Step 7: Train the Model
+Step 8: Integrate the ML Model as a Middleware
+Step 9: After the Client Clicks the Login Button, the details of the
+Client must go to the ML Model function that is called.
+Step 10: The ML Model must return a boolean.
+Step 11: Based on the output in Step 10, the Client will be Redirected
+accordingly.
