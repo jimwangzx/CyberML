@@ -20,7 +20,10 @@
   "homepage": "https://github.com/DivineDemon/CyberML#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "request-ip": "^2.1.3"
+    "node-json-db": "^1.5.0",
+    "request-ip": "^2.1.3",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
