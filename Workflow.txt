@@ -1,4 +1,4 @@
-Step 1: Server to get IP Address
+Step 1: Server to get IP Address ✅
 Step 2: Code to Record the IP Address of each Ping in a .txt
 Step 3: Host the Server on Heroku
 Step 4: Access the Server with Different Devices
